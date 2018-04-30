@@ -41,6 +41,23 @@ Implement HMM model (forward-backward and Viterbi algorithms and learn a HMM mod
 Implement PCA to reduce dimensionality of data in Boston Housing dataset (from 13 to 2)
 
 # CEE 501 Data mining in transportation
+### HW1
+Implement perceptron algorithm and explore the performance
+
+### HW2
+Implement logistic regression
+
+### HW3
+Use hoeffding's inequality to explore the generalization ability.
+
+### HW4
+VC dimension
+
+### HW5
+Bias-Variance analysis
+
+### HW6
+Calculation of decision tree
 
 ### HW7
 Explore bias-variance variation when changing feature dimension/ changing regularization.
@@ -53,4 +70,7 @@ Implement PCA algorithm and reduce 2 dimension to 1 dimension.
 
 ### HW10
 Implement Adaboost
+
+### HW11
+Implement GMM with EM algorithm.
 
